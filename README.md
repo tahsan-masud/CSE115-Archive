@@ -10,4 +10,4 @@ A curated collection of my foundational coursework and projects from the CSE115 
 * Pointers and array manipulation
 
 ### Repository Structure
-Each folder contains a specific assignment or project, along with its own localized `README.md` detailing the problem statement and technical execution.
+Each folder contains a specific assignment or project, or just a practice code, along with its own localized `README.md` detailing the problem statement and technical execution.
